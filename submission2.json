@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic scene of a tailor carefully adjusting a highly detailed suit on a mannequin with unusual proportions, making it fit perfectly, while several normal people in the background look unable to wear similar suits. The suit is over-engineered with excessive seams and tailoring details. No text, no labels. Photorealistic, natural lighting, studio environment, highly detailed fabric textures.",
+  "model": "Ideogram",
+  "concept": "overfitting",
+  "metaphor": "A tailor creates a perfectly fitted suit for one unusual mannequin while others cannot wear it, showing a model that memorizes one case but fails to generalize"
+}
