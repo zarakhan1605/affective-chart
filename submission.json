@@ -1,0 +1,7 @@
+{
+  "prompt": "A dark, cinematic scene of Earth partially submerged in rising black water, with glowing industrial megacities towering above the surface emitting thick smoke, while small rural villages are completely drowned beneath the water. The cities are exaggerated in scale, representing a few powerful emitters, while the submerged areas represent the rest of the world. No text, no labels. Emotional, symbolic, high contrast lighting, hyper-realistic, dramatic shadows, environmental collapse mood.",
+  "model": "Ideogram",
+  "dataset_name": "Global CO2 Emissions",
+  "dataset_url": "https://ourworldindata.org/co2-emissions",
+  "insight": "A small number of regions produce most emissions while the rest of the world suffers the consequences"
+}
